@@ -1,3 +1,9 @@
+# Special note:
+We are migrating to [Phrohdoh/OpenRA](https://github.com/Phrohdoh/OpenRA/tree/ra2%23master).
+
+This readme file will be updated further when this transition is finalized.
+
+
 ![screenshot](http://i.imgur.com/HxQWvXw.png)
 
 Directory tree:
