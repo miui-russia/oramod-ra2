@@ -1,8 +1,6 @@
-# Special note:
-We are migrating to [Phrohdoh/OpenRA](https://github.com/Phrohdoh/OpenRA/tree/ra2%23master).
+We have migrated to [Phrohdoh/OpenRA](https://github.com/Phrohdoh/OpenRA/tree/ra2%23master), please look for updates there. :tada:
 
-This readme file will be updated further when this transition is finalized.
-
+# Original content below:
 
 ![screenshot](http://i.imgur.com/HxQWvXw.png)
 
