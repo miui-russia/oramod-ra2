@@ -1,4 +1,6 @@
-We have migrated to [Phrohdoh/OpenRA](https://github.com/Phrohdoh/OpenRA/tree/ra2%23master), please look for updates there. :tada:
+# IMPORTANT
+
+We have migrated to [github.com/OpenRA/ra2](https://www.github.com/OpenRA/ra2), please look for updates there. :tada:
 
 # Original content below:
 
